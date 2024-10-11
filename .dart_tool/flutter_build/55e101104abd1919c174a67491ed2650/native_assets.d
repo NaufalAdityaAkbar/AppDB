@@ -1,0 +1,1 @@
+ C:\\Users\\ASUS\\Music\\SkyFold\\FunkFood\\appdb\\.dart_tool\\flutter_build\\55e101104abd1919c174a67491ed2650\\native_assets.yaml: 
