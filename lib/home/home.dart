@@ -53,7 +53,7 @@ class _HomeScreenState extends State<HomeScreen> {
         title: Text(
           'Selamat Datang',
           style: TextStyle(
-            fontSize: 24,
+            // fontSize: 24,   git status
             fontWeight: FontWeight.bold,
             color: Colors.white,
           ),
